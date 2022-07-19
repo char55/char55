@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
     🤝 
 
-   🖥️  See my portfolio at https://xyz
+   🖥️  See my portfolio at https://xyz  ~http://www.char55.tech
    🚀  I'm currently working on NPM package for data structures in typescript
    🧠  I'm learning GCP and studying for my Associate Cloud Engineer certification
 -->
