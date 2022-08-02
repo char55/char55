@@ -1,6 +1,6 @@
 ### Hi there 👋 :)
 
-## Currently working as a full-stack developer at GDI since 2019
+## Currently working as a full-stack developer at GDI 
 I've been working with nodeJS, Google Cloud, SFCC, SFBM, SFMC, and various 3rd parties
 
 <!--
