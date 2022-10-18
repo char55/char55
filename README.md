@@ -30,7 +30,7 @@ I'm adept in independent work and am a proficient team player, recognising the i
  - 🌍  I'm based in Montreal, Canada
  - ✉️  You can contact me at haras.charlotte@gmail.com
  - 👯 I speak french and english
- - ⚡  In my free time I write, draw, and knit (the original binary language)
+ - ⚡  In my free time I write, draw, knit (the original binary language), and have successfully grown quite a few tomatoes.
  
  
  <!--
