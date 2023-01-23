@@ -1,6 +1,6 @@
 ### Hi there 👋 :)
 
-## Currently working as a full-stack developer at GDI 
+## Currently working as a developer at Real Dev Labs 
 I've been working with nodeJS, Google Cloud, SFCC, SFBM, SFMC, and various 3rd parties
 
 <!--
