@@ -1,7 +1,9 @@
 ### Hi there 👋 :)
 
 ## Currently working as a developer at Real Dev Labs 
-I've been working with nodeJS, Google Cloud, SFCC, SFBM, SFMC, and various 3rd parties
+using AWS, react, nestJS, typescript
+
+I've been working with nodeJS, Google Cloud, SFCC, SFBM, SFMC, and various 3rd parties intergrations 
 
 <!--
 **char55/char55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
