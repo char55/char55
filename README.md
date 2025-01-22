@@ -1,6 +1,6 @@
 ### Hi there 👋 :)
 
-## Currently working as a developer at Real Dev Labs 
+## Currently working as a developer at Lightspeed HQ
 using AWS, react, nestJS, typescript
 
 I've been working with nodeJS, Google Cloud, SFCC, SFBM, SFMC, and various 3rd parties intergrations 
